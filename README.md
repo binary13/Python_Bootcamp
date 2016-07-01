@@ -14,3 +14,4 @@ In this repo you will find all the accompanying Jupyter (p.k.a. iPython) Noteboo
 Then navigate to your desired lecture and enjoy! You can download the .ipynb files onto your own computer for convenience.
 
 Enjoy the course and thank you for enrolling!
+# Python Bootcamp
